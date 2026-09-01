@@ -1,0 +1,16 @@
+# Ignore data and storage files
+data/
+*.parquet
+*.csv
+
+# Python / Environment ignore rules
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
